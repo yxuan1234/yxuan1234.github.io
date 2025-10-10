@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2502.19698.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://arxiv.org/bibtex/2502.19698
-    image: ./assets/img/framework-3.pdf    
+    image: /assets/img/yoco.png    
     # notes: Early Accept
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
