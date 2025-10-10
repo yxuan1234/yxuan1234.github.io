@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2502.19698.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://arxiv.org/bibtex/2502.19698
-    image: ./assets/img/framework-3.pdf    
+    image: /assets/img/yoco.png    
     # notes: Early Accept
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
@@ -20,3 +20,18 @@ main:
   #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
+
+  - title: "ALISE: Annotation-Free LiDAR Instance Segmentation for Autonomous Driving"
+    authors: Yongxuan Lv, Guangfeng Jiang, Hongsi Liu, Jun Liu, 
+    # conference_short: CVPR
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: https://arxiv.org/pdf/2510.05752.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://arxiv.org/bibtex/2510.05752
+    # notes: Oral Presentation
+    image: ./assets/img/UPG.png
+
+  - title: "SRPO: Aligning process reward with outcome reward in Policy Optimization"
+    authors: Ruiyi Ding, Yongxuan Lv
+    image: ./assets/img/srpo.png

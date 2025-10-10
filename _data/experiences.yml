@@ -1,0 +1,11 @@
+main:
+  - title: "Research Intern"
+    company: "Shanghai Artificial Intelligence Laboratory"
+    location: "Shanghai, China"
+    start_date: "2025-9"
+    end_date: "Present"
+    description: "Multi-model Large Language Model (MLLM) for Optical Chemical Structure Recognition (OCSR)"
+    skills: ["SFT", "GRPO"]
+    # supervisor: "Jiang Wu"
+    logo: "/assets/img/shanghai_ai_lab.png"
+    # supervisor_email: "prof@institute.edu"
